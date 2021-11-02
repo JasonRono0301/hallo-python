@@ -1,0 +1,4 @@
+Ik heb de website Amazon gekozen als voorbeeld applicatie voor Python genomen. Omdat Amazon ook gebouwd is op Pyhton codes omdat, Python hun data base analyseerd en stabiel houdt. 
+Ook omdat Amazon een heel groot bedrijf is en een heel groot data base heeft met allerlei gegevens erin, van mensen over heel de wereld.
+
+Link naar Amazon: https://www.amazon.nl/?&tag=nltxtgoabkde-21&ref=pd_sl_7r6v6gl25n_e&adgrpid=95395531359&hvpone=&hvptwo=&hvadid=424604452445&hvpos=&hvnetw=g&hvrand=9990606784741400037&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9065172&hvtargid=kwd-10573980&hydadcr=3216_2012248&gclid=Cj0KCQjww4OMBhCUARIsAILndv5GA5aSGS-YYpFtjFBAqXCm9S5HDtFtSGjr7CN8Ih0zHmxEPAu4_GQaAlz_EALw_wcB
